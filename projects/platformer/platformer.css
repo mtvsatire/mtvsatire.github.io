@@ -1,12 +1,16 @@
 body {
+  background-image: ("mario.png");
+  background-color: #4057da;
+}
   margin: 0px;
 }
 
 canvas {
-  background-color: lightblue;
+  background-image: url("mario.png");
+ background-color: #1500fa;
   margin: 20px;
 }
 
-img {
-  display: none;
+img { 
+  display:;
 }

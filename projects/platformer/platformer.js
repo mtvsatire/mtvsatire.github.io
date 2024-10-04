@@ -33,10 +33,16 @@ $(function () {
     /////////////////////////////////////////////////
     //////////ONLY CHANGE BELOW THIS POINT///////////
     /////////////////////////////////////////////////
-    createPlatform(250, 650, 200, 10); // short but wide platform located 500 pixels from the left of the screen and 300 pixels from the top of the screen
-    createPlatform(450, 600, 200, 15); // short but wide platform located 500 pixels from the left of the screen and 300 pixels from the top of the screen
-    createPlatform(650, 550, 200, 20); // short but wide platform located 500 pixels from the left of the screen and 300 pixels from the top of the screen
-    createPlatform(850, 500, 200, 25); // short but wide platform located 500 pixels from the left of the screen and 300 pixels from the top of the screen
+    createPlatform(250, 650, 1200, 16); // short but wide platform located 500 pixels from the left of the screen and 300 pixels from the top of the screen
+    createPlatform(450, 600, 200, 60); // short but wide platform located 500 pixels from the left of the screen and 300 pixels from the top of the screen
+    createPlatform(750, 450, 200, 60); // short but wide platform located 500 pixels from the left of the screen and 300 pixels from the top of the screen
+    createPlatform(180, 350, 300, 30); // short but wide platform located 500 pixels from the left of the screen and 300 pixels from the top of the screen
+    createPlatform(60, 450, 200, 60); // short but wide platform located 500 pixels from the left of the screen and 300 pixels from the top of the screen
+    createPlatform(60, 700, 200, 60); // short but wide platform located 500 pixels from the left of the screen and 300 pixels from the top of the screen
+    createPlatform(650, 650, 1200, 70); // short but wide platform located 500 pixels from the left of the screen and 300 pixels from the top of the screen
+    createPlatform(600, 800, 56, 25); // short but wide platform located 500 pixels from the left of the screen and 300 pixels from the top of the screen
+
+    createPlatform(850, 500, 700, 25); // short but wide platform located 500 pixels from the left of the screen and 300 pixels from the top of the screen
     createPlatform(1000, 450, 200, 30); // short but wide platform located 500 pixels from the left of the screen and 300 pixels from the top of the screen
 
     // TODO 1
